@@ -1,0 +1,13 @@
+{
+  "name": "openclaw-whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp bot on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.17.0"
+  }
+}
